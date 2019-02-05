@@ -1,0 +1,11 @@
+- slug: mtc
+  name: Machine-Type Communications
+
+- slug: iot
+  name: IoT
+
+- slug: rl
+  name: Reinforcement Learning
+  
+- slug: autoencoder
+  name: Autoencoder
