@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Massive Machine Type Communications Uplink Traffic: Impact of Beamforming at the Base Station"
 date: 2019-02-05
 ---
