@@ -1,19 +1,15 @@
 # Site settings
-title: Daktilo
+title: Mathieu GOUTAY
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mathieu Goutay's personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://mathieugoutay.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
-  # disqus: your_disqus_forum_shortname
+  fullname: Mathieu Goutay
+  github: mgoutay
+  twitter: goutaym
 
 # google_analytics: 'UA-XXXXXXXX-X'
 

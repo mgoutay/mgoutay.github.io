@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: mtc
+  name: Machine-Type Communications
 
-- slug: tools
-  name: Tools
+- slug: iot
+  name: IoT
 
-- slug: productivity
-  name: Productivity
+- slug: rl
+  name: Reinforcement Learning
+  
+- slug: autoencoder
+  name: Autoencoder
