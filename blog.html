@@ -11,15 +11,15 @@ permalink: /blog/
             <a href="{{ post.url | prepend: site.baseurl }}">
                 <span class="post-teaser__title">{{ post.title }}</span>
                 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-                <span class="post-teaser__subtitle">
+                <p class="post-teaser__subtitle">
                 {% if post.description %}
                     {{ post.description | strip_html | strip_newlines | truncate: 240 }}
                 {% else %}
                     {{ post.content | strip_html | strip_newlines | truncate: 240 }}
-                {% endif %}</span>
-                <span class=".post-title__subtitle">
+                {% endif %}</p>
+                <p class=".post-title__subtitle">
                 {{ post.content | strip_html | strip_newlines | truncate: 240 }}
-                {% endif %}</span>
+                {% endif %}</p>
             </a>
         </li>
     {% endfor %}
