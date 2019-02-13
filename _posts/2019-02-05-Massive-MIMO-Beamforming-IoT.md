@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Massive Machine Type Communications Uplink Traffic: Impact of Beamforming at the Base Station."
-subtitle: "My very first paper"
+subtitle: "Mathieu Goutay, Leonardo Cardoso, Claire Goursaud &nbsp; 2018 25th International Conference on Telecommunications (ICT), St. Malo, 2018, pp. 493-497"
 date:   2019-02-05
-description : Mathieu Goutay, Leonardo Cardoso, Claire Goursaud &nbsp; 2018 25th International Conference on Telecommunications (ICT), St. Malo, 2018, pp. 493-497
+description : "Mathieu Goutay, Leonardo Cardoso, Claire Goursaud &nbsp; 2018 25th International Conference on Telecommunications (ICT), St. Malo, 2018, pp. 493-497"
 categories: [mtc, iot]
 ---
 
