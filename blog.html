@@ -10,6 +10,8 @@ permalink: /blog/
         <li class="post-teaser">
             <a href="{{ post.url | prepend: site.baseurl }}">
                 <span class="post-teaser__title">{{ post.title }}</span>
+                <span class="post-teaser__author">{{ post.author }}</span>
+                <span class="post-teaser__conference">{{ post.conference }}</span>
                 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
             </a>
         </li>
