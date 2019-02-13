@@ -4,7 +4,7 @@ description: >
   Mathieu Goutay's personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mathieugoutay.github.io" # the base hostname & protocol for your site
+url: "http://mgoutay.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Mathieu Goutay
