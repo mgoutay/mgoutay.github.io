@@ -17,9 +17,6 @@ permalink: /blog/
                 {% else %}
                     {{ post.content | strip_html | strip_newlines | truncate: 240 }}
                 {% endif %}</p>
-                <p class=".post-title__subtitle">
-                {{ post.content | strip_html | strip_newlines | truncate: 240 }}
-                {% endif %}</p>
             </a>
         </li>
     {% endfor %}
