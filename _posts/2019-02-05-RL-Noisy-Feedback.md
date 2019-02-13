@@ -3,8 +3,7 @@ layout: post
 title:  "Deep Reinforcement Learning Autoencoder with Noisy Feedback."
 subtitle: "My very first paper"
 date:   2019-02-05
-Author : Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis
-Conference : Submitted at the Workshop on Machine Learning for Communications WMLC 2019, WiOpt 2019, Avignon, France
+description : Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis &nbsp; Submitted at the Workshop on Machine Learning for Communications WMLC 2019, WiOpt 2019, Avignon, France
 categories: [rl, autoencoder]
 ---
 
