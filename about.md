@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Here i am.
 permalink: /about/
 ---
 
-Here you can know a little bit more about m.
-For example, here is my instagram account:  [mgoutay](https://www.instagram.com/mgoutay/)
+Section under construction...<br><br>
+Meanwhile, you can have a look at my last photography project [here](https://issuu.com/mathieugoutay/docs/pph), or check my instagram account : [mgoutay](https://www.instagram.com/mgoutay/).
