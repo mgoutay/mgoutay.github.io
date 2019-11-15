@@ -7,7 +7,7 @@ description : "Tutorial on Tensorflow 2.0 using a MNIST classifier"
 categories: [tutorials]
 ---
 
-Here are some slides and a notebook that covers the basics about Tensorflow 2.0.
+Here are some slides and a notebook that covers the basics about Tensorflow 2.0 using an MNSIT classifier.
 
 The notebook version of the tutorial is available for you [to try on Google Collab](https://colab.research.google.com/github/mgoutay/tf2_tutorial/blob/master/MNIST_tutorial.ipynb). You can download the PowerPoint presentation, the associated PDF, and the code on [my GitHub page](https://github.com/mgoutay/tf2_tutorial).
 
