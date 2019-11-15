@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Reinforcement Learning Autoencoder with Noisy Feedback."
-subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis - Submitted at the Workshop on Machine Learning for Communications WMLC 2019, WiOpt 2019, Avignon, France"
+subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis - Workshop on Machine Learning for Communications WMLC 2019, WiOpt 2019, Avignon, France"
 date:   2019-02-05
 description : "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis - Submitted at the Workshop on Machine Learning for Communications WMLC 2019, WiOpt 2019, Avignon, France"
 categories: [rl, autoencoder]
