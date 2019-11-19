@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Physical Layer as an Autoencoder"
-subtitle: "Can we both learn a transmitter and receiver over any kind of channel?"
+subtitle: "Can we both learn a transmitter and a receiver over any kind of channel?"
 date:   2019-11-18
 description : "Can we both learn a transmitter and receiver over any kind of channel?"
 categories: [tutorials]
