@@ -20,7 +20,7 @@ All materials are available on my [GitHub page]( https://github.com/mgoutay/ml_c
 
 
 1. Introduction to Deep Learning : slides are available [here](https://github.com/mgoutay/ml_course/raw/master/DL_course_1.pptx)
-2. Tensorflow for beginners - Tensorflow for experts. : notebook is available [here]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_course_2.ipynb )
+2. Tensorflow for beginners - Tensorflow for experts : notebook is available [here]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_course_2.ipynb )
 
 ### Exercise
 
@@ -45,11 +45,8 @@ Slides are available [here](https://github.com/mgoutay/ml_course/raw/master/(D)R
    2. Return, state-value, action-value
    3. Temporal Difference Learning
    4. Your turn ! (see exercise, part 2)
-
 3. Deep Reinforcement Leaning
-
    1. Q-network
-
    2. Experience replay
    3. Target Network
    4. Your turn ! (see exercise, part 3)
