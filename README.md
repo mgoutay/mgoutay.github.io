@@ -1,5 +1,5 @@
 # Personal website
-You can access my personal website here : [mgoutay.github.io/](https://mgoutay.github.io/)
+You can access my personal website here : [mgoutay.github.io](https://mgoutay.github.io/)
 
 &nbsp;
 &nbsp;
