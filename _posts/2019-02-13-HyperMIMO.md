@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Deep HyperNetwork-Based MIMO Detection"
-subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis"
+subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, and Jakob Hoydis"
 date:   2020-02-12
-description : "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis"
+description : "Mathieu Goutay, Fayçal Ait Aoudia, and Jakob Hoydis"
 categories: [ml, mimo]
 ---
 
