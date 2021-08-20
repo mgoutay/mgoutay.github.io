@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Deep HyperNetwork-Based MIMO Detection"
-subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, and Jakob Hoydis"
+subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, and Jakob Hoydis <p>
+           2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Atlanta, Georgia, USA "
 date:   2020-02-12
 description : "Mathieu Goutay, Fayçal Ait Aoudia, and Jakob Hoydis"
 categories: [ml, mimo]
