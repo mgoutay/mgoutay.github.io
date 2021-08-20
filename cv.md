@@ -5,6 +5,5 @@ subtitle:
 permalink: /cv/
 ---
 
-You can download my CV [here][1]
+You can download my CV [here](https://mgoutay.github.io/Resume_GOUTAY_Mathieu.pdf).
 
-[1]:{{ site.url }}/Resume_GOUTAY_Mathieu.pdf
