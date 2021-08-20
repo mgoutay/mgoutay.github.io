@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Machine Learning-enhanced Receive Processing for MU-MIMO OFDM Systems"
-subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis, and Jean-Marie Gorce"
-date:   2021-06-19
-description : "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis, and Jean-Marie Gorce <p>
+subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis, and Jean-Marie Gorce <p>
                 Blablabla"
+date:   2021-06-30
+description : "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis, and Jean-Marie Gorce"
 categories: [ml, mimo]
 ---
 
