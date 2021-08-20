@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Machine Learning-enhanced Receive Processing for MU-MIMO OFDM Systems"
+title:  "Article: Machine Learning-enhanced Receive Processing for MU-MIMO OFDM Systems"
 subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis, and Jean-Marie Gorce <p>
            2021 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy"
 date:   2021-06-30

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Machine Learning Course"
+title:  "Tutorial: Machine Learning Course"
 subtitle: "Courses on Deep Learning and (Deep) Reinforcement Learning"
 date:   2020-02-12
 description : "Courses on Deep Learning and (Deep) Reinforcement Learning"

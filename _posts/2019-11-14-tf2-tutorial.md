@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tensorflow 2.0 Tutorial"
+title:  "Tutorial: Tensorflow 2.0 Tutorial"
 subtitle: "Tutorial on Tensorflow 2.0 using a MNIST classifier"
 date:   2019-11-14
 description : "Tutorial on Tensorflow 2.0 using a MNIST classifier"

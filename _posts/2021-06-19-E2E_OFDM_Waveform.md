@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "End-to-End Learning of OFDM Waveforms with PAPR and ACLR Constraints"
+title:  "Article: End-to-End Learning of OFDM Waveforms with PAPR and ACLR Constraints"
 subtitle: "Mathieu Goutay, Fayçal Ait Aoudia, Jakob Hoydis, and Jean-Marie Gorce <p>
            Submitted to 2021 IEEE Global Communications Conference (GLOBECOM), Madrid, Spain "
 date:   2021-06-19
