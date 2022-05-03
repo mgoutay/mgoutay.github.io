@@ -1,11 +1,11 @@
-- slug: mtc
-  name: Machine-Type Communications
+- slug: tutorials
+  name: Tutorials
 
-- slug: iot
-  name: IoT
+- slug: patents
+  name: Patents
 
-- slug: rl
-  name: Reinforcement Learning
+- slug: articles
+  name: Articles
   
-- slug: autoencoder
-  name: Autoencoder
+- slug: thesis
+  name: Thesis
